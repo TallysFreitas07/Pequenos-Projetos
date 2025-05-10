@@ -5,6 +5,9 @@
 #include <math.h>
 #include <stdbool.h>
 
+#define MAX_PECA 4
+#define MAX_CASAS 57
+
 #define invalido printf("\tOpcao Invalida!!!\n");
 #define perdeu printf("\nVOCE PERDEU A VEZ\n");
 
@@ -416,3 +419,4 @@ void analisa_vencedor(jogadores x[], int n){
 // Gustavo esteve aqui
 //Código bem estruturado. Gostei!!! (Marco Tulio)
 //Muito bom !!! (Raphael)
+//Código muito bem indentado! Ótimo!
